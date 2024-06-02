@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/SRMnVnv/patrick-tomasso-QMDap1-TAu0g-unsplash.jpg",
+      "title": "The Art of Fiction",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/wc30v2W/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+      "posted_date": "2024-05-31",
+      "reading_time": 20 ,
+      "hashtags": ["fiction", "writing", "creativity"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/wMLTrX8/a-l-vrqa96bol-Ac-unsplash.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/R7P0hpV/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "posted_date": "2024-05-30",
+      "reading_time": 15 ,
+      "hashtags": ["science", "space", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/fQTy5F7/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Healthy Eating Guide",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/ZmBbtMv/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg",
+      "posted_date": "2024-05-29",
+      "reading_time": 25 ,
+      "hashtags": ["health", "food", "nutrition"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/TBdMD6P/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+      "title": "Mastering Chess Tactics",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co/sFP2RbB/arya-dubey-8e-YI8qc-EFx-I-unsplash.jpg",
+      "posted_date": "2024-05-28",
+      "reading_time": 30 ,
+      "hashtags": ["chess", "strategy", "mindgames"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/wc30v2W/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+      "title": "DIY Home Improvement",
+      "author": "Michael White",
+      "author_img": "https://i.ibb.co/cvshmyG/matheus-ferrero-W7b3e-DUb-2-I-unsplash.jpg",
+      "posted_date": "2024-05-27",
+      "reading_time": 40 ,
+      "hashtags": ["DIY", "home", "improvement"]
+    }
+  ]
+  
